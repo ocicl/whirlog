@@ -4,7 +4,7 @@ a minimal versioned log structured relational DB in Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/codr7/whirlog.git   |
-| commit  | {"messa  |
+| commit  | f8f45bc  |
 | systems | whirlog |
 |---------+-------------------------------------------|
 
