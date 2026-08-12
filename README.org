@@ -8,4 +8,4 @@ a minimal versioned log structured relational DB in Common Lisp
 | systems | whirlog |
 |---------+-------------------------------------------|
 
- 
+  
